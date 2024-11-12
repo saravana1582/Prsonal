@@ -1,0 +1,17 @@
+git init
+
+
+git push -u origin master
+git add file Name / . (multiple)
+git commit -m "first commit"
+git remote add origin https://github.com/saravana1582/Prsonal.git
+git push -u origin master
+
+git checkout -b branchName Remote Beanch
+
+git switch
+
+git status
+
+git branch
+
